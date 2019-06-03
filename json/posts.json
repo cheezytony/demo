@@ -1,0 +1,92 @@
+[
+    {
+        "user": {
+          "name": "Antonio Okoro",
+          "username": "cheezytony",
+          "img": "http://localhost:7886/assets/img/avatar/girl-1.jpg"
+        },
+        "location": "Lagos, Nigeria",
+        "time": "",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id voluptatum doloribus, officia ut architecto maiores. Saepe, est nobis voluptatibus aperiam sint nam blanditiis, dolores quas! Aperiam, expedita aliquam dicta maxime.",
+        "tags": [
+            {
+            "name": "Peter Parker",
+            "img": "http://localhost:7886/assets/img/avatar/miles.jpg"
+            },
+            {
+            "name": "Miles Morales",
+            "img": "http://localhost:7886/assets/img/avatar/miles.jpg"
+            },
+            { "name": "Gwen Stacy", "img": "http://localhost:7886/assets/img/avatar/gwen.png"
+            },
+            {
+            "name": "Peter Porker",
+            "img": "http://localhost:7886/assets/img/avatar/peter-porker.jpg"
+            },
+            {
+            "name": "Penny Parker",
+            "img": "http://localhost:7886/assets/img/avatar/penny.png"
+            },
+            {
+            "name": "Peter Parker",
+            "img": "http://localhost:7886/assets/img/avatar/spider-man-noir.jpg"
+            }
+        ],
+        "max_tags": 4,
+        "more_tags_limit": 10,
+        "comments": [
+            {
+            "user": {
+              "name": "Peter Porker",
+              "img": "http://localhost:7886/assets/img/avatar/peter-porker.jpg",
+              "username": "Spider Pig"
+                },
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil hic libero iste, dolor est, quod vitae unde? Et mollitia explicabo saepe, alias omnis soluta quo asperiores quam natus vero minima.",
+            "date": "",
+            "meta": {
+              "liked": false,
+              "likes": 12
+                },
+            "replies": []
+            },
+            {
+            "user": {
+              "name": "Penny Parker",
+              "img": "http://localhost:7886/assets/img/avatar/penny.png",
+              "username": "Spider Girl"
+                },
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et atque rem blanditiis temporibus molestiae adipisci ad a architecto aspernatur. Sunt soluta, harum ut reiciendis laboriosam quos sint optio. Id, quia.",
+            "date": "",
+            "meta": {
+              "liked": false,
+              "likes": 12
+                },
+            "replies": []
+            },
+            {
+            "user": {
+              "name": "Peter Parker",
+              "img": "http://localhost:7886/assets/img/avatar/spider-man-noir.jpg",
+              "username": "Spider Man Noir"
+                },
+            "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut sapiente nobis dolorum quaerat, optio quia. Nulla, quae illum itaque error veritatis quas praesentium rerum sit odio cumque. Fuga, enim, atque!",
+            "date": "",
+            "meta": {
+              "liked": false,
+              "likes": 12
+                },
+            "replies": []
+            }
+        ],
+        "meta": {
+          "liked": false,
+          "likes": 1724,
+          "reposted": false,
+          "reposts": 532
+        },
+        "media": [
+            { "src": "http://localhost:7886/assets/img/cover/joker.jpg", "type": "img"
+            }
+        ]
+    }
+]

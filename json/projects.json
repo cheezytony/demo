@@ -1,0 +1,90 @@
+[
+    {
+        "logo": "http://localhost:7886/assets/img/projects/project-1.jpg",
+        "name": "First project we got",
+        "members": [
+            {
+            "name": "Miles Morales",
+            "img": "http://localhost:7886/assets/img/avatar/miles.jpg"
+            },
+            {
+            "name": "Gwen Stacy",
+            "img": "http://localhost:7886/assets/img/avatar/gwen.png"
+            }
+        ],
+        "progress": 100,
+        "status": "done"
+    },
+    {
+        "logo": "http://localhost:7886/assets/img/projects/project-2.jpg",
+        "name": "Second project",
+        "members": [
+            {
+            "name": "Miles Morales",
+            "img": "http://localhost:7886/assets/img/avatar/miles.jpg"
+            }
+        ],
+        "progress": 35,
+        "status": "pending"
+    },
+    {
+        "logo": "http://localhost:7886/assets/img/projects/project-3.jpg",
+        "name": "Third mission from hokage",
+        "members": [
+            {
+            "name": "Penny Parker",
+            "img": "http://localhost:7886/assets/img/avatar/penny.png"
+            },
+            {
+            "name": "Miles Morales",
+            "img": "http://localhost:7886/assets/img/avatar/miles.jpg"
+            },
+            {
+            "name": "Gwen Stacy",
+            "img": "http://localhost:7886/assets/img/avatar/gwen.png"
+            }
+        ],
+        "progress": 15,
+        "status": "pending"
+    },
+    {
+        "logo": "http://localhost:7886/assets/img/projects/project-4.jpg",
+        "name": "Got to get Sasuke back",
+        "members": [
+            {
+            "name": "Gwen Stacy",
+            "img": "http://localhost:7886/assets/img/avatar/gwen.png"
+            },
+            {
+            "name": "Miles Morales",
+            "img": "http://localhost:7886/assets/img/avatar/miles.jpg"
+            },
+            {
+            "name": "Peter Porker",
+            "img": "http://localhost:7886/assets/img/avatar/peter-porker.jpg"
+            },
+            {
+            "name": "Peter Parker",
+            "img": "http://localhost:7886/assets/img/avatar/spider-man-noir.jpg"
+            }
+        ],
+        "progress": 65,
+        "status": "delayed"
+    },
+    {
+        "logo": "http://localhost:7886/assets/img/projects/project-5.jpg",
+        "name": "Beat Momoshiki Otsutsuki",
+        "members": [
+            {
+            "name": "Peter Porker",
+            "img": "http://localhost:7886/assets/img/avatar/peter-porker.jpg"
+            },
+            {
+            "name": "Peter Parker",
+            "img": "http://localhost:7886/assets/img/avatar/spider-man-noir.jpg"
+            }
+        ],
+        "progress": 100,
+        "status": "done"
+    }
+]

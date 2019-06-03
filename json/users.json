@@ -1,0 +1,52 @@
+[
+    {
+        "first_name": "Antonio",
+        "last_name": "Okoro",
+        "email": "cheezytony1@gmail.com"
+    },
+    {
+        "first_name": "Naruto",
+        "last_name": "Uzumaki",
+        "email": "narutouzumaki@gmail.com"
+    },
+    {
+        "first_name": "Sasuke",
+        "last_name": "Uchiha",
+        "email": "sasukeuchiha@gmail.com"
+    },
+    {
+        "first_name": "Rock",
+        "last_name": "Lee",
+        "email": "rocklee@gmail.com"
+    },
+    {
+        "first_name": "Neji",
+        "last_name": "Hyuga",
+        "email": "nejihyuga@gmail.com"
+    },
+    {
+        "first_name": "Shikamaru",
+        "last_name": "Nara",
+        "email": "shikamarunara@gmail.com"
+    },
+    {
+        "first_name": "Choji",
+        "last_name": "Akimichi",
+        "email": "chojiakimichi@gmail.com"
+    },
+    {
+        "first_name": "Kiba",
+        "last_name": "Inuzuka",
+        "email": "kibainuzuka@gmail.com"
+    },
+    {
+        "first_name": "Hinata",
+        "last_name": "Hyuga",
+        "email": "hinatahyuga@gmail.com"
+    },
+    {
+        "first_name": "Shino",
+        "last_name": "Aburame",
+        "email": "shinoaburame@gmail.com"
+    }
+]
